@@ -1,0 +1,68 @@
+.yoga {
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.verticalLine {
+    border-left: thick solid #ff0000;
+    border-radius: 9px;
+    height: auto;
+    float: left;
+    width: 100%;
+    padding-right: 0%;
+    background-color: lightgray;
+    margin-bottom: 20px;
+  }
+  
+  .verticalLine h3{
+    text-align: left;
+    padding-left: 5%;
+  }
+  
+  .verticalLine p{
+    text-align: left;
+    padding-left: 5%;
+  }
+
+.tableOfContent {
+    border: 2px solid black;
+    padding: 10px; /* Optional: Add padding for better spacing */
+}
+
+.tableOfContent h3 {
+    border-bottom: 1px solid black; /* Add border to bottom of each h3 element */
+    padding-bottom: 5px; /* Add padding to separate the border from text */
+}
+
+.tableOfContent h3 a {
+    text-decoration: none; /* Remove underline from links */
+    color: black; /* Set link color */
+}
+
+.tableOfContent h3 a:hover {
+    text-decoration: underline; /* Underline link on hover */
+}
+
+p {
+    text-align: justify;
+}
+
+.roundedBorder{
+    padding: 3%;
+    background-color: lightgray;
+    border-radius: 9px;
+    margin-bottom: 20px;
+}
+
+.roundedBorder h3{
+    text-align: left;
+    padding-left: 5%;
+    
+  }
+
+.roundedBorder p{
+    text-align: left;
+    padding-left: 5%;
+    text-align: justify;
+}
